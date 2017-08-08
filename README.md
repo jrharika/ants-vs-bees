@@ -1,2 +1,2 @@
 # ants-vs-bees
-A text-based python game that is modeled after Plants vs Zombies.
+A text-based python game modeled after Plants vs Zombies.
